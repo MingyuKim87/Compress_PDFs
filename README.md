@@ -17,7 +17,7 @@ This repository provides a Python-based solution to compress PDF files to meet t
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/pdf-compression.git
+    git clone https://github.com/MingyuKim87/pdf-compression.git
     cd pdf-compression
     ```
 
@@ -35,11 +35,6 @@ This repository provides a Python-based solution to compress PDF files to meet t
 
     - **Windows:**
         Download and install Ghostscript from [here](https://www.ghostscript.com/download.html).
-
-3. **Install Python dependencies (if any):**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
